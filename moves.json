@@ -1,0 +1,156 @@
+{
+    "attack_moves": [
+        {
+            "name": "Dragon Emperor Soaring Bite Strike",
+            "power": 70,
+            "move_type": "attack"
+        },
+        {
+            "name": "Pegasus Starblast Attack",
+            "power": 65,
+            "move_type": "attack"
+        },
+        {
+            "name": "Lion Wild Wind Fang Dance",
+            "power": 60,
+            "move_type": "attack"
+        },
+        {
+            "name": "Bull Upper Attack",
+            "power": 75,
+            "move_type": "attack"
+        },
+        {
+            "name": "Turtle Shell Attack",
+            "power": 55,
+            "move_type": "attack"
+        },
+        {
+            "name": "Dragon Emperor Strike",
+            "power": 70,
+            "move_type": "attack"
+        },
+        {
+            "name": "Phoenix Wing Attack",
+            "power": 80,
+            "move_type": "attack"
+        },
+        {
+            "name": "Tiger Claw Attack",
+            "power": 75,
+            "move_type": "attack"
+        }
+    ],
+    "defense_moves": [
+        {
+            "name": "Dragon Emperor Shield",
+            "power": 50,
+            "move_type": "defense"
+        },
+        {
+            "name": "Pegasus Shield",
+            "power": 55,
+            "move_type": "defense"
+        },
+        {
+            "name": "Lion Shield",
+            "power": 60,
+            "move_type": "defense"
+        },
+        {
+            "name": "Bull Defense Wall",
+            "power": 65,
+            "move_type": "defense"
+        },
+        {
+            "name": "Turtle Shell Defense",
+            "power": 70,
+            "move_type": "defense"
+        },
+        {
+            "name": "Dragon Emperor Shield",
+            "power": 55,
+            "move_type": "defense"
+        },
+        {
+            "name": "Phoenix Wing Shield",
+            "power": 50,
+            "move_type": "defense"
+        },
+        {
+            "name": "Tiger Claw Shield",
+            "power": 60,
+            "move_type": "defense"
+        }
+    ],
+    "stamina_moves": [
+        {
+            "name": "Engine Gear",
+            "power": 50,
+            "stamina_cost": 10,
+            "accuracy": 100
+        },
+        {
+            "name": "Counter Stance",
+            "power": 65,
+            "stamina_cost": 20,
+            "accuracy": 95
+        }
+    ],
+    "balance_moves": [
+        {
+            "name": "Dragon Emperor Life Destructor",
+            "power": 100,
+            "stamina_cost": 40,
+            "accuracy": 85
+        },
+        {
+            "name": "Storm Bringer",
+            "power": 75,
+            "stamina_cost": 25,
+            "accuracy": 90
+        }
+    ],
+    "critical_moves": [
+        {
+            "name": "Dragon Emperor Supreme Flight",
+            "power": 90,
+            "move_type": "critical"
+        },
+        {
+            "name": "Pegasus Stardust Driver",
+            "power": 85,
+            "move_type": "critical"
+        },
+        {
+            "name": "Lion Reverse Wind Strike",
+            "power": 80,
+            "move_type": "critical"
+        },
+        {
+            "name": "Bull Destruction",
+            "power": 95,
+            "move_type": "critical"
+        },
+        {
+            "name": "Turtle Shell Counter",
+            "power": 85,
+            "move_type": "critical"
+        },
+        {
+            "name": "Dragon Emperor Critical",
+            "power": 90,
+            "move_type": "critical"
+        },
+        {
+            "name": "Phoenix Wing Critical",
+            "power": 95,
+            "move_type": "critical"
+        },
+        {
+            "name": "Tiger Claw Critical",
+            "power": 90,
+            "move_type": "critical"
+        }
+    ]
+} 

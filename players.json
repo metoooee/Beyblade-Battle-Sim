@@ -1,0 +1,149 @@
+{
+  "bum": {
+    "name": "bum",
+    "wins": 16,
+    "losses": 2,
+    "custom_beyblades": [
+      {
+        "name": "b",
+        "type": "Attack",
+        "power": 86,
+        "defense": 69,
+        "special_moves": {
+          "attack_moves": [
+            {
+              "name": "Dragon Destructor Assault (Double Attack)",
+              "power": 95,
+              "move_type": "attack"
+            },
+            {
+              "name": "Short Sharp Strike",
+              "power": 80,
+              "move_type": "attack"
+            }
+          ],
+          "defense_moves": [
+            {
+              "name": "Dragon Destructor Shield",
+              "power": 60,
+              "move_type": "defense"
+            }
+          ],
+          "critical_moves": [
+            {
+              "name": "Dragon Destructor Short Ultimate",
+              "power": 100,
+              "move_type": "critical"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "zz": {
+    "name": "zz",
+    "wins": 2,
+    "losses": 8,
+    "custom_beyblades": [
+      {
+        "name": "1",
+        "type": "Attack",
+        "power": 86,
+        "defense": 69,
+        "special_moves": {
+          "attack_moves": [
+            {
+              "name": "Dragon Destructor Assault (Double Attack)",
+              "power": 95,
+              "move_type": "attack"
+            },
+            {
+              "name": "Short Sharp Strike",
+              "power": 80,
+              "move_type": "attack"
+            }
+          ],
+          "defense_moves": [
+            {
+              "name": "Dragon Destructor Shield",
+              "power": 60,
+              "move_type": "defense"
+            }
+          ],
+          "critical_moves": [
+            {
+              "name": "Dragon Destructor Short Ultimate",
+              "power": 100,
+              "move_type": "critical"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "v": {
+    "name": "v",
+    "wins": 0,
+    "losses": 1,
+    "custom_beyblades": [
+      {
+        "name": "111",
+        "type": "Attack",
+        "power": 86,
+        "defense": 69,
+        "special_moves": {
+          "attack_moves": [
+            {
+              "name": "Dragon Destructor Assault (Double Attack)",
+              "power": 95,
+              "move_type": "attack"
+            },
+            {
+              "name": "Short Sharp Strike",
+              "power": 80,
+              "move_type": "attack"
+            }
+          ],
+          "defense_moves": [
+            {
+              "name": "Dragon Destructor Shield",
+              "power": 60,
+              "move_type": "defense"
+            }
+          ],
+          "critical_moves": [
+            {
+              "name": "Dragon Destructor Short Ultimate",
+              "power": 100,
+              "move_type": "critical"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "s": {
+    "name": "s",
+    "wins": 0,
+    "losses": 3,
+    "custom_beyblades": []
+  },
+  "sddsf": {
+    "name": "sddsf",
+    "wins": 0,
+    "losses": 4,
+    "custom_beyblades": []
+  },
+  "": {
+    "name": "",
+    "wins": 3,
+    "losses": 0,
+    "custom_beyblades": []
+  },
+  "1": {
+    "name": "1",
+    "wins": 0,
+    "losses": 3,
+    "custom_beyblades": []
+  }
+}

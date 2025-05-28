@@ -1,0 +1,27 @@
+{
+  "player": {
+    "name": "bum",
+    "beyblade": {
+      "name": "b",
+      "type": "Attack",
+      "health": 100,
+      "stamina": 95,
+      "spin_speed": 97,
+      "defense_count": 2,
+      "critical_used": false
+    }
+  },
+  "opponent": {
+    "name": "1",
+    "beyblade": {
+      "name": "1",
+      "type": "Attack",
+      "health": 100,
+      "stamina": 95,
+      "spin_speed": 97,
+      "defense_count": 2,
+      "critical_used": false
+    }
+  },
+  "current_turn": 1
+}
